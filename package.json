@@ -1,0 +1,11 @@
+{
+  "name": "dev-coffee-httpnative",
+  "version": "1.0.0",
+  "description": "Dev Coffee API - servidor HTTP nativo em Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Guilherme Garcia",
+  "license": "ISC"
+}
